@@ -6,3 +6,6 @@ Obskurity Student Number: 300185298
 
 RainbowPigCake Name: Garrick Wong
 RainbowPigCake Student Number: 300201087
+
+HarmanSekhon141 Name: Harman Sekhon 
+HarmanSekhon141 Student Number: 300166902
