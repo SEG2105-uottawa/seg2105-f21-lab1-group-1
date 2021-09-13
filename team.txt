@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 Garrick
-=======
-Arthur
->>>>>>> 0062a3a82f366272224d8cb11d11eb71482eafce
