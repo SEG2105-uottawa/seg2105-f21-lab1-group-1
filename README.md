@@ -5,4 +5,4 @@ Obskurity Student Name: Arthur Wang
 Obskurity Student Number: 300185298
 
 RainbowPigCake Name: Garrick Wong
-RainbowPigCake Student Number: Garrick Wong
+RainbowPigCake Student Number: 
